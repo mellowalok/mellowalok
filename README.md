@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔥 Also known as **Alok**  
+- 🔥 Also known as **Mellow Alok**  
 - 🌱 Currently learning **Python, Web Dev, AI & ML**  
 - 🎧 I create music, code projects, and build ideas  
 - ☀️ Warm soul with a calm vibe  
